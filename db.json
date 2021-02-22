@@ -1,8 +1,19 @@
 {
- "users":[
+  "users":[
+    {"uid":1,
+  "name":"Deepanshu Yadav",
+     "email":"fakemail@fake.com",
+     "password":"aloo",
+     "handle":"FireFrost"
+    }
+  ],
   
- ],
- 
- "blogs":[
- ]
+  "blogs":[
+    {
+      "bid":1,
+      "author":"Deepanshu Yadav",
+      "title":"Money",
+      "body":"Money is not everything, but Money is a must."
+    }
+  ]
 }
